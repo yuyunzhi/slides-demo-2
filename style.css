@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+.images{
+    display: flex;
+    transition: all 0.3s;
+
+}
+
+.windowView{
+height:300px;
+width:400px;
+margin:0 auto;
+overflow: hidden;
+
+} 
+
+.buttons{
+    height:30px;
+    width:80px;
+    border: 1px solid red;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+
+}
